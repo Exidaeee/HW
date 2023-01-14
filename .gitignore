@@ -1,3 +1,13 @@
 /.vs
 /HW_2.3/bin
+<<<<<<< Updated upstream
 /HW_2.3/obj
+=======
+/HW_2.3/obj
+/LinkedList/.vs
+/LinkedList/bin
+/LinkedList/obj
+/BinarySearchTree/.vs
+/BinarySearchTree/bin
+/BinarySearchTree/obj
+>>>>>>> Stashed changes
