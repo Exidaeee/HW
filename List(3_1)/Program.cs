@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-          var list = new List<int>();
+            var list = new List<int>();
             list.Add(5);
             list.Add(7);
             list.Add(3);
             list.Add(4);
-            list.Add(6);           
-            bool x =list.Remove(3);
-            list.Add(10); 
+            list.Add(6);
+            bool x = list.Remove(3);
+            list.Add(10);
             list.Add(11);
             list.Add(12);
             list.Add(1);

@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections;
 
 namespace List_3_1_
 {
@@ -12,7 +10,7 @@ namespace List_3_1_
         public T this[int i]
         {
             get { return _arr[i]; }
-            set 
+            set
             {
                 if (i < _arr.Length)
                 {
@@ -39,22 +37,21 @@ namespace List_3_1_
                 _index++;
             }
             return _arr;
-
         }
         public T[] AddRange(int size)
         {
-            T[] arr= new T[_arr.Length + size];
+            T[] arr = new T[_arr.Length + size];
             for (int i = 0; i < _arr.Length; i++)
             {
                 arr[i] = _arr[i];
             }
-            _arr= arr;
-            return _arr; 
-        }    
+            _arr = arr;
+            return _arr;
+        }
         public bool Remove(T item)
         {
             T[] arr = new T[_arr.Length - 1];
-            
+
             bool successful = false;
             for (int i = 0; i < _arr.Length; i++)
             {
@@ -64,19 +61,19 @@ namespace List_3_1_
                     {
                         if (index < i)
                         {
-                            arr[index] = _arr[index];  
+                            arr[index] = _arr[index];
                         }
                         else if (index > i)
                         {
-                            arr[index-1] = _arr[index];
-                        }     
+                            arr[index - 1] = _arr[index];
+                        }
                     }
                     successful = true;
                     _arr = arr;
                     _index--;
                     break;
                 }
-            }            
+            }
             return successful;
         }
 
@@ -91,7 +88,7 @@ namespace List_3_1_
                     {
                         arr[i] = _arr[i];
                     }
-                    else 
+                    else
                     {
                         arr[i - 1] = _arr[i];
                     }
@@ -112,12 +109,12 @@ namespace List_3_1_
                 {
                     if (_arr[i].CompareTo(_arr[i - 1]) == -1)
                     {
-                        item= _arr[i];
+                        item = _arr[i];
                         _arr[i] = _arr[i - 1];
-                        _arr[i - 1]= item; 
+                        _arr[i - 1] = item;
 
                     }
-                   
+
                 }
             }
             return _arr;
@@ -133,7 +130,7 @@ namespace List_3_1_
 
         public int CompareTo(T data)
         {
-           return _arr[_index].CompareTo(data);
+            return _arr[_index].CompareTo(data);
         }
     }
 }
