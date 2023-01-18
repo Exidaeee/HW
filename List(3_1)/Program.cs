@@ -17,8 +17,8 @@
             list.Add(1);
             list[0] = 2;
             list.Sort();
-            list.AddRange(15);
-            list[22] = 23;
+            int[] myArray = new[] { 1, 2, 3, 5 };
+            list.AddRange(myArray);           
             foreach (var item in list)
             {
                 Console.Write(item + " ");

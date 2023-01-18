@@ -38,35 +38,46 @@ namespace List_3_1_
             }
             return _arr;
         }
-        public T[] AddRange(int size)
+        public T[] AddRange( T[] array)
         {
+            int size = array.Length;
             T[] arr = new T[_arr.Length + size];
             for (int i = 0; i < _arr.Length; i++)
             {
                 arr[i] = _arr[i];
+                if (_arr.Length + i< arr.Length)
+                {
+                    arr[_arr.Length+i]= array[i];
+                }  
+
             }
             _arr = arr;
             return _arr;
         }
-        public bool Remove(T item)
-        {
-            T[] arr = new T[_arr.Length - 1];
 
+        public bool Remove(T item)
+        { 
             bool successful = false;
             for (int i = 0; i < _arr.Length; i++)
             {
                 if (_arr[i].Equals(item))
                 {
-                    for (int index = 0; index < _arr.Length; index++)
+                    int index = i;
+                    i = 0;
+                    T[] arr = new T[_arr.Length - 1];
+                    while (i < _arr.Length)
                     {
-                        if (index < i)
+                        if (i < index)
                         {
-                            arr[index] = _arr[index];
+                            arr[i] = _arr[i];
+                            
                         }
-                        else if (index > i)
+                        else if (i > index)
                         {
-                            arr[index - 1] = _arr[index];
+                            arr[i - 1] = _arr[i];
+                            
                         }
+                        i++;
                     }
                     successful = true;
                     _arr = arr;
@@ -77,14 +88,14 @@ namespace List_3_1_
             return successful;
         }
 
-        public T[] RemoveAt(int data)
+        public T[] RemoveAt(int index)
         {
-            if (data < _arr.Length)
+            if (index < _arr.Length)
             {
                 T[] arr = new T[_arr.Length - 1];
                 for (int i = 0; i < _arr.Length; i++)
                 {
-                    if (i < data)
+                    if (i < index)
                     {
                         arr[i] = _arr[i];
                     }
