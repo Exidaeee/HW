@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gTd8tK70phouuDr5otBRYAa9hRUSnknGIs8AsU1w5aztpKVtHI3p+GOTIC8J+mzL5RaATk16oSGogvtLdnuyEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asya\\A-Level\\HW\\HW\\HW_2.5\\HW_2.5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Asya\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
