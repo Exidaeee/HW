@@ -1,0 +1,15 @@
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\bin\Debug\net7.0\Part1_query.exe
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\bin\Debug\net7.0\Part1_query.deps.json
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\bin\Debug\net7.0\Part1_query.runtimeconfig.json
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\bin\Debug\net7.0\Part1_query.dll
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\bin\Debug\net7.0\Part1_query.pdb
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\Part1_query.csproj.AssemblyReference.cache
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\Part1_query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\Part1_query.AssemblyInfoInputs.cache
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\Part1_query.AssemblyInfo.cs
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\Part1_query.csproj.CoreCompileInputs.cache
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\Part1_query.dll
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\refint\Part1_query.dll
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\Part1_query.pdb
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\Part1_query.genruntimeconfig.cache
+C:\Users\Asya\A-Level\HW\HW\LINQ(3_4)\Part1_query\obj\Debug\net7.0\ref\Part1_query.dll

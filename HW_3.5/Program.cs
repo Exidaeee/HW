@@ -36,14 +36,13 @@
 
         public static async Task<string> HelloWorldAsync()
         {
-            return await Task.Run( async () =>
-            {
+           return await Task.Run( async () =>
+           {
                string hello =  await ReadHelloAsync();
                string world =  await ReadWorldAsync();
                string HelloWorld = hello +" "+ world;
-               return HelloWorld;
-               
-            });
+               return HelloWorld;              
+           });
         }
     }
 }
