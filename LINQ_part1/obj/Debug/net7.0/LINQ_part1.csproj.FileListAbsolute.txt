@@ -1,0 +1,15 @@
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\bin\Debug\net7.0\LINQ_part1.exe
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\bin\Debug\net7.0\LINQ_part1.deps.json
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\bin\Debug\net7.0\LINQ_part1.runtimeconfig.json
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\bin\Debug\net7.0\LINQ_part1.dll
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\bin\Debug\net7.0\LINQ_part1.pdb
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\LINQ_part1.csproj.AssemblyReference.cache
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\LINQ_part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\LINQ_part1.AssemblyInfoInputs.cache
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\LINQ_part1.AssemblyInfo.cs
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\LINQ_part1.csproj.CoreCompileInputs.cache
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\LINQ_part1.dll
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\refint\LINQ_part1.dll
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\LINQ_part1.pdb
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\LINQ_part1.genruntimeconfig.cache
+C:\Users\Asya\A-Level\HW\HW\LINQ_part1\obj\Debug\net7.0\ref\LINQ_part1.dll
